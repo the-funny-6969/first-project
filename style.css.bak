@@ -65,18 +65,4 @@ body {
   background-color: #c4c4c4;
 }
 
-body {
-  margin: 50px;
-}
 
-.header {
-  background-color: #ffc802;
-}
-
-.list {
-  columns: 5;
-}
-
-.footer {
-  text-align: end;
-}
